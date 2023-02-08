@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": "manase",
+      "surname": "masete",
+      "email": "sjhdh@test.com",
+      "contact": "0435464",
+      "password": "manase@123",
+      "id": 1
+    },
+    {
+      "name": "junior",
+      "surname": "masete",
+      "email": "junior@fb.com",
+      "contact": "0677441100",
+      "password": "junior@123",
+      "id": 2
+    },
+    {
+      "name": "abi",
+      "surname": "masete",
+      "email": "abi@fb.com",
+      "contact": "0011100230",
+      "password": "abi@123",
+      "id": 3
+    },
+    {
+      "name": "lira",
+      "surname": "masete",
+      "email": "lira@fb.com",
+      "contact": "0745",
+      "password": "0345574",
+      "id": 4
+    },
+    {
+      "name": "lebo",
+      "surname": "mase",
+      "email": "lebo@fb.com",
+      "contact": "85676",
+      "password": "lebo@123",
+      "id": 5
+    },
+    {
+      "name": "okay",
+      "surname": "yebo",
+      "email": "okay@fb.com",
+      "contact": "4534",
+      "password": "okay@123",
+      "id": 6
+    },
+    {
+      "name": "",
+      "surname": "",
+      "email": "",
+      "contact": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "surname": "",
+      "email": "",
+      "contact": "",
+      "password": "",
+      "id": 8
+    }
+  ]
+}
